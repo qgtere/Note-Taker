@@ -45,7 +45,7 @@ Then open your browser on `http://localhost:3001`
     * uuid
 
 ## Sneak Peek:
-![Application Preview](gif)
+![Application Preview](./public/assets/gif/Note%20Taker.gif)
 
 ## Contributing 
  The open source community is a great place to inspire and learn thanks to contributions, feel free to make yours!
