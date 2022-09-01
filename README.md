@@ -34,7 +34,7 @@ Then open your browser on `http://localhost:3001`
 
 ## Deployed Application
 
-[Link to the app](http)
+[Link to the app](https://sleepy-badlands-24266.herokuapp.com)
 
 ## Techs
 
